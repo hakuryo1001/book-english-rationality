@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 OCT 2025 15:36
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 OCT 2025 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,7 +315,10 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[../fonts/batang.ttf]/OT:language=dflt;"
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/yfonts/yfonts.sty
+Package: yfonts 2019/04/04 v1.4 (WaS&NP)
+LaTeX Info: Composite with undeclared \" in encoding LYG on input line 58.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
 Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
  (/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
@@ -1017,6 +1020,10 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1113,32 +1120,37 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
 \c@lstlisting=\count394
- (./cover/cover.tex
-LaTeX Font Info:    Calculating math sizes for size <40> on input line 10.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (452.1662pt too wide) in paragraph at lines 10--16
- [] 
- []
+ (./cover/cover.tex)
 
-)
+[1
+
+] (out/english-rationality.toc
+
+LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n' undefined
+(Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 1.
+
 
 LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/b/n' undefined
-(Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 43.
+(Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 1.
 
-(out/english-rationality.toc)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write5
 \openout5 = `english-rationality.toc'.
 
- (./chapters/1.tex) (out/english-rationality.ind)
 
-[1
+
+[2] (./chapters/1.tex
+Chapter 1.
+) (out/english-rationality.ind)
+
+[3
 
 ] (out/english-rationality.aux)
  ***********
@@ -1151,12 +1163,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 31531 strings out of 473832
- 747982 string characters out of 5729481
- 1257269 words of memory out of 5000000
- 54045 multiletter control sequences out of 15000+600000
- 569196 words of font info for 102 fonts, out of 8000000 for 9000
+ 31635 strings out of 473832
+ 749395 string characters out of 5729481
+ 1256999 words of memory out of 5000000
+ 54141 multiletter control sequences out of 15000+600000
+ 566587 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  121i,11n,123p,554b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/english-rationality.pdf (1 page).
+Output written on out/english-rationality.pdf (3 pages).
