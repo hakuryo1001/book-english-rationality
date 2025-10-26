@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 OCT 2025 15:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  26 OCT 2025 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1148,11 +1148,27 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [2] (./chapters/1.tex
 Chapter 1.
-) (out/english-rationality.ind)
+
 
 [3
 
-] (out/english-rationality.aux)
+]
+Underfull \hbox (badness 2229) in paragraph at lines 24--25
+[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 What is "reasonable" therefore only by defacturied conve-
+ []
+
+
+
+[4]
+Underfull \hbox (badness 2237) in paragraph at lines 32--33
+[]\TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n/10 English Rationality, is therefore, very naturally, "Common
+ []
+
+
+
+[5]) (out/english-rationality.ind)
+
+[6] (out/english-rationality.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1165,10 +1181,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  31635 strings out of 473832
  749395 string characters out of 5729481
- 1256999 words of memory out of 5000000
+ 1264999 words of memory out of 5000000
  54141 multiletter control sequences out of 15000+600000
  566587 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,11n,123p,554b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,11n,123p,1388b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/english-rationality.pdf (3 pages).
+Output written on out/english-rationality.pdf (6 pages).
